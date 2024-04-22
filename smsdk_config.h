@@ -41,7 +41,7 @@
 #define SMEXT_CONF_NAME         "VPhysics"
 #define SMEXT_CONF_DESCRIPTION  "Source VPhysics Tools"
 #define SMEXT_CONF_VERSION      "0.0.0.0"
-#define SMEXT_CONF_AUTHOR       "Asher Baker (asherkin)"
+#define SMEXT_CONF_AUTHOR       "Erin Baker (asherkin)"
 #define SMEXT_CONF_URL          "http://limetech.org/"
 #define SMEXT_CONF_LOGTAG       "VPHYS"
 #define SMEXT_CONF_LICENSE      "GPL"
